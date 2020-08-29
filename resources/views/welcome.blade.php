@@ -74,7 +74,7 @@
 
 
     <script>
-        const debounceSearchName = window._.debounce(searchName)
+        const debounceSearchName = window._.debounce(searchName, 300)
         function searchName() {
             let inputName = document.getElementById('name');
             let search = inputName.value.trim();
