@@ -1,6 +1,6 @@
- Busqueda de registros con Laravel
+## Busqueda de registros con Laravel
 
-Foobar is a Python library for dealing with word pluralization.
+Ejemplo de una busqueda de registros usando javascript y ajax
 
 ## Instalación
 
